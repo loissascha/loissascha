@@ -23,7 +23,7 @@
 ###
 
 
-<p align="left">Hi, I'm Sascha.
+<p align="left">I'm Sascha.
   <br>A passionate software developer from Austria!<br><br>
   - 🌱 I’m currently learning <strong>Rust</strong><br>
   - 📫 How to reach me <strong>sascha.loishandl@gmail.com</strong><br>
