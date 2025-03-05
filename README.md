@@ -1,5 +1,4 @@
 
-
 ###
 
 <div align="center">
@@ -23,11 +22,14 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">Hi, I'm Sascha from Austria!<br><br>- 🔭 I work as a software engineer<br>- 📚 Currently learning Go and Rust<br>- ⚡ In my free time I love working on fun side projects</p>
+<p align="left">Hi, I'm Sascha.
+  <br>A passionate software developer from Austria!<br><br>
+  - 🌱 I’m currently learning <strong>Rust</strong><br>
+  - 📫 How to reach me <strong>sascha.loishandl@gmail.com</strong><br>
+  - ⚡ In my free time I love working on fun side projects<br>
+  - 👨‍💻 All of my projects are available on <a href="https://github.com/loissascha?tab=repositories">github</a> or on <a href="https://saschalois.itch.io" target="_blank">itch.io</a>
+</p>
 
 ###
 
