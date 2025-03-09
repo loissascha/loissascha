@@ -25,8 +25,8 @@
 
 <p align="left">I'm Sascha.
   <br>A passionate software developer from Austria!<br><br>
-  - 🌱 I’m currently learning <strong>Rust</strong><br>
-  - 📫 How to reach me <strong>sascha.loishandl@gmail.com</strong><br>
+  - 🌱 I’m currently in love with <strong>GoLang</strong><br>
+  - 📫 How to reach me: <strong>sascha.loishandl@gmail.com</strong><br>
   - ⚡ In my free time I love working on fun side projects<br>
   - 👨‍💻 All of my projects are available on <a href="https://github.com/loissascha?tab=repositories">github</a> or on <a href="https://saschalois.itch.io" target="_blank">itch.io</a>
 </p>
