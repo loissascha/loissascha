@@ -23,7 +23,8 @@
   - 📫 How to reach me: <strong>sascha.loishandl@gmail.com</strong><br>
   - ⚡ In my free time I love working on fun side projects<br>
   - 👨‍💻 All of my projects are available on <a href="https://github.com/loissascha?tab=repositories">github</a> or on <a href="https://saschalois.itch.io" target="_blank">itch.io</a>
-  - Check out my <a href="https://sascha-loishandl.at" target="_blank">website</a>.
+  
+  Check out my <a href="https://sascha-loishandl.at" target="_blank">website</a>.
 </p>
 
 ###
