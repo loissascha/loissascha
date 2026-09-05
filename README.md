@@ -1,5 +1,3 @@
-I like building software.
-
 ---
 
 ### Current interests
@@ -7,14 +5,6 @@ I like building software.
 - Go as a primary language  
 - Linux as the main platform
 - learning some system programming with C and Rust
-
----
-
-### Not really into
-
-- overcomplicated frameworks  
-- "magic" abstractions  
-- software that needs 10 services to run  
 
 ---
 
